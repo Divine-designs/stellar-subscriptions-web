@@ -2,5 +2,5 @@
 
 ## Handsoff notes
 
-<!-- handsoff-issue-88 -->
-- #88: Component tests for PlanCard and PlanGrid
+<!-- handsoff-issue-83 -->
+- #83: Tests for useTx phase transitions
